@@ -1,4 +1,4 @@
-# Building Java Projects with Maven - Push
+# Building Java Projects with Maven - Push2
 This guide walks you through using Maven to build a simple Java project.
 
 ## What you’ll build
